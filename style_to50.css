@@ -1,0 +1,64 @@
+/* font-family: 'Rock Salt', cursive;
+font-family: 'Covered By Your Grace', cursive;
+font-family: 'Knewave', cursive; */
+
+main {
+  padding: 30px;
+  width: 800px;
+  background-image: linear-gradient(#010005, rgb(45, 43, 68));
+  text-transform: uppercase;
+}
+
+h1, h2 {
+  font-family: 'Covered By Your Grace', cursive;
+  color: #ceb216;
+}
+
+h1 {
+  font-size: 300px;
+  transform: scaleX(0.4);
+  letter-spacing: .25em;
+  line-height: 1px;
+  margin-right: 600px;
+}
+
+h2 {
+}
+
+.strap {
+  font-family: 'Knewave', cursive;
+  color: #ceb216;
+  font-size: 35px;
+  letter-spacing: 0.1em;
+  line-height: 0.1px;
+  margin-left: 140px;
+}
+sup { 
+  vertical-align: super;
+  font-size: smaller;
+}
+
+.sticker {
+  font-family: 'Times New Roman', Times, serif;
+  text-transform: none;
+  color: #FFFFFF;
+  width: 100px;
+  height: 100px;
+  background: #000000;
+  border-radius: 50%;
+  font-style: italic;
+
+}
+
+.author {
+  font-family: 'Rock Salt', cursive;
+  color: #d8dcee;
+  font-size: 60px;
+  letter-spacing: 0.3em;
+}
+
+img {
+  width: 600px;
+  transform: scaleY(0.8);
+  left-margin: 80px;
+}
