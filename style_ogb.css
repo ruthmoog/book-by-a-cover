@@ -1,14 +1,3 @@
-footer {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 18px;
-  color: #1b5257;
-  margin: 40 80;
-}
-
-a {
-  color: #77d4df;
-}
-
 main {
   font-family: 'Vollkorn', serif;
   width: 750px;
@@ -16,15 +5,18 @@ main {
   text-transform: uppercase;
 }
 
+section {
+  margin: 40px;
+}
+
+.block_a {
+  padding-top: 80px;
+}
+
 img {
   width:120px;
   padding: 20px;
   margin: 0px;
-}
-
-table {
-  width: 80%;
-  padding: 40px;
 }
 
 h1 {
@@ -37,7 +29,7 @@ h1 {
   line-height: .5em;
 }
 
-.subtitle {
+h2 {
   width: 80%;
   margin-left: 100px;
   font-size: 18px;
@@ -45,12 +37,23 @@ h1 {
   color: #504a4a;
 }
 
-.author {
+h3 {
   width: 60%;
   margin-left: 190px;
   letter-spacing: 0.35em;
   color: #1f1a1a;
   font-size: 30px;
   padding-bottom: 90px;
+}
+
+footer {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+  color: #1b5257;
+  margin: 40 80;
+}
+
+a {
+  color: #77d4df;
 }
 
