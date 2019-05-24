@@ -10,10 +10,12 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+## Icons
+
+### Creative Commons BY 3.0
+
+Unless stated in the HTML, all icons are made by [Freepik](https://www.freepik.com/) via [flaticon.com](www/flaticon.com) and are licensed under [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/)
+
 ## Photography 
 
 All photographs are publicly available (eg press shots or social media promotion).  Specific copyright information is available within the HTML of the relevant book cover.
-
-## Icons
-
-Unless stated in the HTML, all icons are made by [Freepik](https://www.freepik.com/) via [flaticon.com](www/flaticon.com) and are licensed under Creative Commons BY 3.0 ([CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/))
