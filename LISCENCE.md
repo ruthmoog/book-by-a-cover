@@ -14,7 +14,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ### Creative Commons BY 3.0
 
-Unless stated in the HTML, all icons are made by [Freepik](https://www.freepik.com/) via [flaticon.com](www/flaticon.com) and are licensed under [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/)
+Unless stated in the HTML, all icons are made by [Freepik](https://www.freepik.com/) via [flaticon.com](www/flaticon.com) and are licensed under [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/).
 
 ## Photography 
 
