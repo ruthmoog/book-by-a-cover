@@ -12,14 +12,15 @@ I used this project to learn more about creative CSS, and practise semantic HTML
 ## Contents
 
 Files are in the following formats:
-Content files: `book_title.html`
-Style files: `style_titleinitials.css` eg "How To Cake It" is `style_htci.css`
+
+- Content files: `book_title.html`
+- Style files: `style_titleinitials.css` eg "How To Cake It" is `style_htci.css`
 
 ## Books
 
-- Our Garden Birds by Matt Sewell
-- How To Cake It by Yolanda Gampp
-- The Outsiders by SE Hinton
+- [Our Garden Birds](https://www.penguin.co.uk/books/1091078/our-garden-birds/9780091945008.html) by Matt Sewell
+- [How To Cake It](https://howtocakeit.com/collections/cakebook/products/cakebook) by Yolanda Gampp
+- [The Outsiders](https://www.penguinrandomhouse.com/books/541867/the-outsiders-50th-anniversary-edition-by-se-hinton/9780425288290/) by SE Hinton
 
 ## Contribute
 
