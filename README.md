@@ -22,6 +22,10 @@ Files are in the following formats:
 - [How To Cake It](https://howtocakeit.com/collections/cakebook/products/cakebook) by Yolanda Gampp
 - [The Outsiders](https://www.penguinrandomhouse.com/books/541867/the-outsiders-50th-anniversary-edition-by-se-hinton/9780425288290/) by SE Hinton
 
+## Examples
+
+![How To Cake It](https://github.com/ruthmoog/book_by_a_cover/blob/master/screenshots/ss_howtocakeit.png?raw=true)
+
 ## Contribute
 
 Suggestions welcome!  This was a really fun project and I would recommend doing the same from scratch to learn more about vanilla HTML & CSS - maybe film posters, album covers, or event tickets.
