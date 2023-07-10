@@ -4,9 +4,10 @@ This CSS project recreates book covers using HMTL and CSS.
 
 I used this project to learn more about creative CSS, and practise semantic HTML.
 
+![Book by a Cover](https://github.com/ruthmoog/portfolio/blob/master/public/images/projects/bookByACover.webp)
+
 #### Future ideas
 
-- I plan to host the project online eventually.
 - I'd like to learn about animating with CSS and animate some book covers.
 
 ## Contents
@@ -24,9 +25,9 @@ Files are in the following formats:
 
 ## Examples
 
-![How To Cake It](https://github.com/ruthmoog/book_by_a_cover/blob/master/screenshots/ss_howtocakeit.png?raw=true)
-![The Outsiders](https://github.com/ruthmoog/book_by_a_cover/blob/master/screenshots/ss_theoutsiders.png?raw=true)
-![Our Garden Birds](https://github.com/ruthmoog/book_by_a_cover/blob/master/screenshots/ss_ourgardenbirds.png?raw=true)
+![How To Cake It](https://github.com/ruthmoog/book_by_a_cover/blob/main/screenshots/ss_howtocakeit.png?raw=true)
+![The Outsiders](https://github.com/ruthmoog/book_by_a_cover/blob/main/screenshots/ss_theoutsiders.png?raw=true)
+![Our Garden Birds](https://github.com/ruthmoog/book_by_a_cover/blob/main/screenshots/ss_ourgardenbirds.png?raw=true)
 
 
 ## Contribute
