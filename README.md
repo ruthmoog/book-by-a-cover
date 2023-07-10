@@ -25,9 +25,9 @@ Files are in the following formats:
 
 ## Examples
 
-![How To Cake It](https://github.com/ruthmoog/book_by_a_cover/blob/main/screenshots/ss_howtocakeit.png?raw=true)
-![The Outsiders](https://github.com/ruthmoog/book_by_a_cover/blob/main/screenshots/ss_theoutsiders.png?raw=true)
-![Our Garden Birds](https://github.com/ruthmoog/book_by_a_cover/blob/main/screenshots/ss_ourgardenbirds.png?raw=true)
+![How To Cake It](https://github.com/ruthmoog/book-by-a-cover/blob/main/screenshots/HowToCakeItExample.webp)
+![The Outsiders](https://github.com/ruthmoog/book-by-a-cover/blob/main/screenshots/TheOutsiders50Example.webp)
+![Our Garden Birds](https://github.com/ruthmoog/book-by-a-cover/blob/main/screenshots/OurGardenBirdsExample.webp)
 
 
 ## Contribute
